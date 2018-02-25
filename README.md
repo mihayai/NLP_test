@@ -8,30 +8,30 @@ for
 (asciitree (sometimes you) (just (want to draw)) (**_trees_**) (in (your terminal)))
 
 result is
-
+<code>
 - asciitree
-- +-- sometimes
-- |   +-- you
-- +-- just
-- |   +-- want
-- |       +-- to
-- |       +-- draw
-- +-- trees
-- +-- in
-- |   +-- your
-- |       +-- terminal
-
+- +--&nbsp;sometimes
+- |&nbsp;&nbsp;&nbsp;+--&nbsp;you
+- +--&nbsp;just
+- |&nbsp;&nbsp;&nbsp;+-- want
+- |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+-- to
+- |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+-- draw
+- +--&nbsp;trees
+- +--&nbsp;in
+- |&nbsp;&nbsp;&nbsp;+--&nbsp;your
+- |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--&nbsp;terminal
+</code>
 and when the word "trees" is not in the parensis. (The word "trees" and "asciitree" are on the same level) 
 (asciitree (sometimes you) (just (want to draw)) **trees** (in (your terminal)))
 
 - asciitree
-- +-- sometimes
-- |   +-- you
-- +-- just
-- |   +-- want
-- |       +-- to
-- |       +-- draw
+- +--&nbsp;sometimes
+- |&nbsp;&nbsp;&nbsp;+-- you
+- +--&nbsp;just
+- |&nbsp;&nbsp;&nbsp;+--&nbsp;want
+- |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--&nbsp;to
+- |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--&nbsp;draw
 - trees
-- +-- in
-- |   +-- your
-- |       +-- terminal
+- +--&nbsp;in
+- |&nbsp;&nbsp;&nbsp;+--&nbsp;your
+- |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--&nbsp;terminal
