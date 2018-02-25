@@ -10,15 +10,10 @@ for
 result is
 
 asciitree
-
 +-- sometimes
-
 |   +-- you
-
 +-- just
-
 |   +-- want
-
 |       +-- to
 |       +-- draw
 +-- trees
