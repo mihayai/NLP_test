@@ -23,7 +23,7 @@ result is
 </code>
 and when the word "trees" is not in the parensis. (The word "trees" and "asciitree" are on the same level) 
 (asciitree (sometimes you) (just (want to draw)) **trees** (in (your terminal)))
-<code>
+
 - asciitree
 - +--&nbsp;sometimes
 - |&nbsp;&nbsp;&nbsp;+--&nbsp;you
@@ -35,4 +35,4 @@ and when the word "trees" is not in the parensis. (The word "trees" and "asciitr
 - +--&nbsp;in
 - |&nbsp;&nbsp;&nbsp;+--&nbsp;your
 - |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--&nbsp;terminal
-</code>
+
