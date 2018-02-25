@@ -26,7 +26,7 @@ and when the word "trees" is not in the parensis. (The word "trees" and "asciitr
 
 - asciitree
 - +--&nbsp;sometimes
-- |&nbsp;&nbsp;&nbsp;+-- you
+- |&nbsp;&nbsp;&nbsp;+--&nbsp;you
 - +--&nbsp;just
 - |&nbsp;&nbsp;&nbsp;+--&nbsp;want
 - |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--&nbsp;to
